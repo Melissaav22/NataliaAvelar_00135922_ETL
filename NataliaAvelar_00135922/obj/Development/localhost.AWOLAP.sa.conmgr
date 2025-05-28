@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.AWOLAP.sa"
+  DTS:DTSID="{B7C4C2BC-0C31-41DD-BAB6-9E2FF7147022}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;User ID=sa;Initial Catalog=AWOLAP;Provider=SQLOLEDB.1;Application Name=SSIS-NataliaAvelar_00135922-{B7C4C2BC-0C31-41DD-BAB6-9E2FF7147022}localhost.AWOLAP.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmNDDWKtwaUi1yEcdpvf+IAAAAAACAAAAAAAQZgAAAAEAACAAAACIDz7hyBjlaDZbE7AQQz23wdil98A4VKZ4/OEwij/HtAAAAAAOgAAAAAIAACAAAADXF5Yi2L0fdRhnIiS8RTp1c7vdGsFy6QnkD5gUMXhdk4AAAAA5y03OZHTNxqm9+13O3GyxPIDuFez4Njd2tmQ+W7KhAAgHIGHqrXLrnViAhNoAYS0ORTMoHb77I8APy+hD923REjK6JuiZ+z6uhhaEpNEyd0brsznYu/P97eq4AmM0r4JD6GwqP/cxZ+dBThxVoOR2bVOEQ+tBXvk+Midzgk4TLEAAAAAaJYS0iydsXbVln2YggG3YOfvP/R0e2fj8RI5pCxx43QXDKhcMjtuUoI46HDm6U22vQZeF1J8ujgbfCegayDCO</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
